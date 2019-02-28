@@ -1,0 +1,23 @@
+{
+    "name": "hansem/uploadfile",
+    "description": "测试",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hansem",
+            "email": "846023518@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+    "psr-4": {
+        "hansem\\": "src/"
+		}
+	}
+}
